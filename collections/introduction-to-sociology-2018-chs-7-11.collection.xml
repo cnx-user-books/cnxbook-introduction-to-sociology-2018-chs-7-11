@@ -1,0 +1,61 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col24121</md:content-id>
+    <md:title>Introduction to Sociology, 2018, Chs. 7-11</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>ba83f5a1-2ad9-434c-8bc2-13913f7861fb</md:uuid>
+<md:slug>introduction-to-sociology-2018-chs-7-11</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Deviance, Crime, and Social Control</md:title>
+      <col:content>
+        <col:module document="m65555"/>
+        <col:module document="m65489"/>
+        <col:module document="m65490"/>
+        <col:module document="m65579"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Media and Technology</md:title>
+      <col:content>
+        <col:module document="m65491"/>
+        <col:module document="m65510"/>
+        <col:module document="m65511"/>
+        <col:module document="m65512"/>
+        <col:module document="m65513"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Social Stratification in the United States</md:title>
+      <col:content>
+        <col:module document="m65556"/>
+        <col:module document="m65516"/>
+        <col:module document="m65517"/>
+        <col:module document="m65551"/>
+        <col:module document="m65568"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Global Economy</md:title>
+      <col:content>
+        <col:module document="m65560"/>
+        <col:module document="m65550"/>
+        <col:module document="m65552"/>
+        <col:module document="m65569"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Race and Ethnicity</md:title>
+      <col:content>
+        <col:module document="m65554"/>
+        <col:module document="m65563"/>
+        <col:module document="m65566"/>
+        <col:module document="m65571"/>
+        <col:module document="m65553"/>
+        <col:module document="m65561"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
