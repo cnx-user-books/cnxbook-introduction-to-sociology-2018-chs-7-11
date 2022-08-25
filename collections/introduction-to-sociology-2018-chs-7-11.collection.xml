@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Hirosuke Hyodo">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col24121</md:content-id>
     <md:title>Introduction to Sociology, 2018, Chs. 7-11</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>ba83f5a1-2ad9-434c-8bc2-13913f7861fb</md:uuid>
-<md:slug>introduction-to-sociology-2018-chs-7-11</md:slug>
-</metadata>
+    <md:slug>introduction-to-sociology-2018-chs-7-11</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Deviance, Crime, and Social Control</md:title>
